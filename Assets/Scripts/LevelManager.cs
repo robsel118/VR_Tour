@@ -17,7 +17,7 @@ public class LevelManager : MonoBehaviour {
             //Automatically loads next level after X seconds, eg for splash screen
    
             //invoke method can not take parameter
-            Invoke("loadNextLevel", autoLoadNextLevel);
+            Invoke("LoadNextLevel", autoLoadNextLevel);
         }
     }
 

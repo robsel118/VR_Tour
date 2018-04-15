@@ -44,7 +44,7 @@ public class Multi_Language_text : MonoBehaviour {
         }
     }
 
-    public void TypeText()
+        public void TypeText()
     {
         //reset the text
         SetText();
